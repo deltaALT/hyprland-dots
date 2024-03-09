@@ -9,7 +9,7 @@ Scroll down and make sure that [core-testing] and [extra-testing] are not commen
 
 ![image](https://github.com/deltaALT/hyprland-dots/assets/154239532/8d52c698-d409-40d2-b0aa-588b30c94427)
 
-After that update Arch and install Hyprland, Waybar and wofi (```sudo pacman -Syyu hyprland waybar wofi```)
+After that update Arch and install Git, Hyprland, Waybar and wofi. (```sudo pacman -Syyu git hyprland waybar wofi```)
 
 Now clone this repo by running ```git clone https://github.com/deltaALT/hyprland-dots```
 
