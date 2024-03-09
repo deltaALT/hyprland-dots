@@ -1,5 +1,8 @@
 ### How to install:
 
+> [!WARNING]
+> Do NOT use install.sh, as that script is not complete. All it does is try to copy a .config folder to the $HOME path, but you need to do a few other things first. So I recommend you to follow the guide below instead.
+
 First of all, enable the testing repositories. To do that, edit ``/etc/pacman.conf`` with any text editor, I use micro. 
 
 Scroll down and make sure that [core-testing] and [extra-testing] are not commented out (shouldn't have a #), refer to the image below.
