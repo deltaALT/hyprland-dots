@@ -3,6 +3,7 @@
 First of all, enable the testing repositories. To do that, edit ``/etc/pacman.conf`` with any text editor, I use micro. 
 
 Scroll down and make sure that [core-testing] and [extra-testing] are not commented out (shouldn't have a #), refer to the image below.
+
 ![image](https://github.com/deltaALT/hyprland-dots/assets/154239532/8d52c698-d409-40d2-b0aa-588b30c94427)
 
 After that update Arch and install Hyprland, Waybar and wofi (```sudo pacman -Syyu hyprland waybar wofi```)
