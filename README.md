@@ -11,6 +11,8 @@ Scroll down and make sure that [core-testing] and [extra-testing] are not commen
 
 After that update Arch and install Git, Hyprland, Waybar and wofi. (```sudo pacman -Syyu git hyprland waybar wofi```)
 
+You also need hyprlock. Install it by running ```yay -S hyprlock```
+
 Now clone this repo by running ```git clone https://github.com/deltaALT/hyprland-dots```
 
 cd into it by doing ```cd hyprland-dots```
